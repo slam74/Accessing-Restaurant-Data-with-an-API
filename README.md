@@ -1,4 +1,4 @@
-# Restaurant-Data-UI
+# Accessing Restaurant Data with an API
 
 Works with an API on the client-side to produce a user interface for accessing data. Created using CSS/JS code and libraries including Lodash, Moment.js, Leaflet, jQuery and Bootstrap.
 
